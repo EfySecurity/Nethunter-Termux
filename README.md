@@ -6,6 +6,10 @@ Este guia fornece instruções para instalar o NetHunter no ambiente Termux em d
 
 **Observação:** O Termux não é oficialmente suportado pelo projeto Kali Linux ou pelo NetHunter. Este procedimento pode não oferecer a mesma funcionalidade completa do Kali Linux NetHunter em dispositivos compatíveis.
 
+![Profile Views](https://komarev.com/ghpvc/?username=EfySecurity&color=brightgreen)
+
+[![GitHub stars](https://img.shields.io/github/stars/EfySecurity/EfySecurity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EfySecurity/EfySecurity/stargazers/)
+
 ## Passos
 
 1. Abra o aplicativo Termux no seu dispositivo Android.
