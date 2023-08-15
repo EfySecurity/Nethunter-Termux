@@ -8,7 +8,28 @@ Este guia fornece instruções para instalar o NetHunter no ambiente Termux em d
 
 **Observação:** O Termux não é oficialmente suportado pelo projeto Kali Linux ou pelo NetHunter. Este procedimento pode não oferecer a mesma funcionalidade completa do Kali Linux NetHunter em dispositivos compatíveis.	
 
-## Passos
+## Processo automatizado
+
+1. Entre no diretorio Nethunter-Termux
+
+```bash
+cd Nethunter-Termux
+```
+
+2. De permissão ao script
+
+```bash
+chmod +x install.sh
+```
+
+3. Execute-o
+
+```bash
+sh install.sh
+```
+
+
+## Processo manual
 
 1. Abra o aplicativo Termux no seu dispositivo Android.
 
